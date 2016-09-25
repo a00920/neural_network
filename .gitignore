@@ -1,0 +1,13 @@
+.idea/.name
+.idea/dictionaries/eugenpopovich.xml
+.idea/encodings.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/jsLibraryMappings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/neural_network.iml
+.idea/workspace.xml
+__pycache__/get_data.cpython-35.pyc
+__pycache__/utils.cpython-35.pyc
+methods/__pycache__/hebb.cpython-35.pyc
