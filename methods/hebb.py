@@ -27,4 +27,4 @@ def hebb(*, examples):
 
 @add_one_to_input('examples')
 def get_error_number(*, examples, weights):
-    return sum([is_correct_weight(input, output, weights) for input, output in examples])
+    return sum([not is_correct_weight(input, output, weights) for input, output in examples])
